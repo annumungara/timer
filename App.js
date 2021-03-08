@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
   Hover: {
        width : '5%',
        height : '5%',
-       borderRadius: '100%',
+       borderRadius: 100,
        borderWidth: 3,
        marginRight : '10%',
        borderColor: '#0cbdf4',
